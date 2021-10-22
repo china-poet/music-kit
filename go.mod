@@ -1,4 +1,4 @@
-module my-music/music-kit
+module github.com/mostoriginal/music-kit
 
 go 1.16
 
